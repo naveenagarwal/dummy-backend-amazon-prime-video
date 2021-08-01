@@ -1,0 +1,270 @@
+{
+  "movielists": [
+    {
+      "id": 1,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/0.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 2,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/1.jpg",
+      "watchedPercentage": 0,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 3,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/2.jpg",
+      "watchedPercentage": 5,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 4,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/3.jpg",
+      "watchedPercentage": 70,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 5,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/4.jpg",
+      "watchedPercentage": 50,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 6,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/5.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 7,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/6.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 8,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/7.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 9,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/8.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 10,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/9.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 11,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/10.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 12,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/11.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 13,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/12.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 14,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/13.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 15,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/14.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 16,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/15.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 17,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/16.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 18,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/17.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "recommended"
+    },
+    {
+      "id": 19,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/18.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "binge-worthy"
+    },
+    {
+      "id": 20,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/19.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "binge-worthy"
+    },
+    {
+      "id": 21,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/20.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "binge-worthy"
+    },
+    {
+      "id": 22,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/21.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "binge-worthy"
+    },
+    {
+      "id": 23,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/22.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "binge-worthy"
+    },
+    {
+      "id": 24,
+      "thumbnailURL": "http://localhost:3000/assets/images/thumbnail/23.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "binge-worthy"
+    }
+  ],
+  "bannertitles": [
+    {
+      "id": 1,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/0.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 2,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/1.jpg",
+      "watchedPercentage": 0,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 3,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/2.jpg",
+      "watchedPercentage": 5,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 4,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/3.jpg",
+      "watchedPercentage": 70,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 5,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/4.jpg",
+      "watchedPercentage": 50,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 6,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/5.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 7,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/6.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 8,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/7.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    },
+    {
+      "id": 9,
+      "thumbnailURL": "http://localhost:3000/assets/images/bannertitles/8.jpg",
+      "watchedPercentage": 25,
+      "type": "movie",
+      "name": "Dr. Who",
+      "bucketName": "watchInProgress"
+    }
+  ]
+}
